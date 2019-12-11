@@ -10,8 +10,8 @@ Lives of ordinary people are continually being disturbed by covert photography t
 ___________________
 
 
-Leading Game Designer & Artist & Sound Design : Zihan Xu
-Unity Developer: Xueyan Zhang & Jian He
+Leading Game Designer & Artist & Sound Design : Zihan Xu <br/>
+Unity Developer: Xueyan Zhang & Jian He <br/>
 Music: Kevin Macleod
 
 
